@@ -1,0 +1,17 @@
+build/*
+build
+build/Makefile
+build/vo
+build/CMakeFiles/Makefile.cmake
+build/CMakeFiles/Makefile2
+build/CMakeFiles/progress.marks
+build/CMakeFiles/TargetDirectories.txt
+build/CMakeFiles/vo.dir/build.make
+build/CMakeFiles/vo.dir/cmake_clean.cmake
+build/CMakeFiles/vo.dir/CXX.includecache
+build/CMakeFiles/vo.dir/depend.internal
+build/CMakeFiles/vo.dir/depend.make
+build/CMakeFiles/vo.dir/DependInfo.cmake
+build/CMakeFiles/vo.dir/link.txt
+build/CMakeFiles/vo.dir/progress.make
+build/CMakeFiles/vo.dir/src/baidu.cpp.o

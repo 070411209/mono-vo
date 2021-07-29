@@ -10,8 +10,21 @@ file(GLOB viso
 )
 
 file(GLOB vmap
-    "src/baidu.cpp"
+    "src/mux.cpp"
+)
+
+file(GLOB cont
+    "src/temp.cpp"
+)
+
+
+file(GLOB vmap
+    "src/temp.cpp"
 )
 
 add_executable( vo ${vmap} )
 target_link_libraries( vo ${OpenCV_LIBS} )
+
+
+add_executable( contest ${cont} )
+target_link_libraries( contest ${OpenCV_LIBS} )

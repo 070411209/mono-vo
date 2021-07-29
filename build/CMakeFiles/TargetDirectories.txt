@@ -1,3 +1,0 @@
-/home/one/src/mt/mono-vo/build/CMakeFiles/rebuild_cache.dir
-/home/one/src/mt/mono-vo/build/CMakeFiles/vo.dir
-/home/one/src/mt/mono-vo/build/CMakeFiles/edit_cache.dir
