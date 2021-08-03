@@ -10,7 +10,7 @@ file(GLOB viso
 )
 
 file(GLOB vmap
-    "src/temp.cpp"
+    "src/templet.cpp"
 )
 
 add_executable( vo ${vmap} )
