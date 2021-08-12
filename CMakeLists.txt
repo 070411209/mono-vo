@@ -10,7 +10,7 @@ file(GLOB viso
 )
 
 file(GLOB vmap
-    "src/templet.cpp"
+    "src/unorder_set.cpp"
 )
 
 add_executable( vo ${vmap} )
