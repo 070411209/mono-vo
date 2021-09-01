@@ -10,7 +10,7 @@ file(GLOB viso
 )
 
 file(GLOB vmap
-    "src/unorder_set.cpp"
+    "src/sqrt.cpp"
 )
 
 add_executable( vo ${vmap} )
